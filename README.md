@@ -19,14 +19,15 @@ I build responsive web applications while developing strong foundations in cyber
 
 **Frontend**
 
-* HTML
-* CSS
-* JavaScript
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Backend / Programming**
 
-* PHP
-* Python
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Cybersecurity**
 
@@ -74,3 +75,6 @@ Developing scripts to automate repetitive workflows.
 ---
 
 ⭐ *“Building secure and meaningful digital experiences.”*
+
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olaryinka&show_icons=true&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Olaryinka&theme=github-dark)
