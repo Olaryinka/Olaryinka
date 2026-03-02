@@ -81,5 +81,10 @@ Developing scripts to automate repetitive workflows.
 
 ## 📊 GitHub Stats
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olaryinka&show_icons=true&theme=github_dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=Olaryinka&theme=github-dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Olaryinka&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Olaryinka&theme=github-dark&hide_border=true" />
+</p>
