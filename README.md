@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi, I'm Michael Olayinka 👋
 
-<!--
-**Olaryinka/Olaryinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Security-Focused Web Developer**
+I build responsive web applications while developing strong foundations in cybersecurity and Python automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 Studying **Cybersecurity** at Miva Open University
+* 🌐 Background in Web Development (HTML, CSS, JavaScript, PHP)
+* 🐍 Python programmer with distinction certification
+* 🔐 Interested in ethical hacking, secure coding, and penetration testing
+* 📈 Currently seeking **internship & junior developer opportunities**
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+* HTML
+* CSS
+* JavaScript
+
+**Backend / Programming**
+
+* PHP
+* Python
+
+**Cybersecurity**
+
+* Ethical Hacking Fundamentals
+* Secure Coding Practices
+* OWASP Basics
+
+**Tools**
+
+* Git & GitHub
+* VS Code
+* Linux (Learning)
+
+---
+
+## 🌱 Currently Learning
+
+* Web Application Security (OWASP Top 10)
+* Python Automation
+* Secure Authentication Systems
+* Git Collaboration Workflows
+
+---
+
+## 📂 Featured Projects
+
+🔹 **MK Cleaning Company Website**
+Responsive business website focused on mobile usability and accessible customer interaction.
+👉 https://mk-cleaning-company.vercel.app/
+
+🔹 **Secure Login System (In Progress)**
+Building authentication with secure password handling and session management.
+
+🔹 **Python Automation Tool (In Progress)**
+Developing scripts to automate repetitive workflows.
+
+---
+
+## 📫 Connect With Me
+
+🌐 Portfolio: https://olayinka-portfolio-rouge.vercel.app
+💼 LinkedIn: https://linkedin.com/in/holaryinka-tech
+📧 Email: [holaryinkamichael@gmail.com](mailto:your-new-email@gmail.com)
+
+---
+
+⭐ *“Building secure and meaningful digital experiences.”*
