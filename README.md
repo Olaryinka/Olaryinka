@@ -79,5 +79,7 @@ Developing scripts to automate repetitive workflows.
 
 ⭐ *“Building secure and meaningful digital experiences.”*
 
+## 📊 GitHub Stats
+
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olaryinka&show_icons=true&theme=github_dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Olaryinka&theme=github-dark)
